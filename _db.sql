@@ -140,7 +140,7 @@ GO
         (N'Đặng Thị Phương', '1998-01-19', 0, N'Quận Gò Vấp, TP.HCM', '0909123456', 'phuong.dang@example.com', N'Lập trình viên', '2021-08-02', 6),
         (N'Hồ Văn Dũng', '1992-04-02', 1, N'Quận 10, TP.HCM', '0909765432', 'dung.ho@example.com', N'Sales executive', '2023-03-06', 7),
         (N'Lý Thị Ngọc', '1997-09-14', 0, N'TP.Thủ Dầu Một, Bình Dương', '0918456789', 'ngoc.ly@example.com', N'Chuyên viên sản xuất', '2024-01-15', 8);
-		sóiiofoiso
+
     INSERT INTO HopDong (maNV, loaiHD, heSoLuong, luongCoBan, ngayBatDau, trangThai) VALUES
         (1, 2, 5.00, 25000000, '2010-01-05', 1),
         (2, 2, 4.20, 22000000, '2012-04-12', 1),
